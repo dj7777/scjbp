@@ -2,7 +2,7 @@
     width: 100%;
     min-width: 320px;
     height: 520px;
-    position: relative;
+   
     margin:0 auto;
     overflow: hidden;
     background: transparent url(../images/Slider.png) repeat-x 0% center; /* Replace with your background image*/
